@@ -10,4 +10,11 @@ p {
   text-align: center;
 }
 
+body {
+background-color: darkgreen;
+}
+
+a {
+text-align: left
+}
 
